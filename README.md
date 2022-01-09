@@ -2,11 +2,7 @@
 
 Below are the projects Yonatan has been working on since 2017
 
----
-
-***Legend***: ⭐ *Cool project* - 🏢 *Group project* - 🕸️ *LAN project*
-
----
+(**Legend**: ⭐ Cool project | 🏢 Group project | 🕸️ LAN project)
 
 ## Command Line Interface
 
