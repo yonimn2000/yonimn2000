@@ -10,6 +10,7 @@ Below are the projects Yonatan has been working on since 2017
 
 * [Battleship](https://github.com/yonimn2000/command-line-battleship "A command line Battleship game")
 * [Battleship v2](https://github.com/yonimn2000/command-line-battleship-v2 "An improved version of my command line Battleship game") ⭐
+* [Minesweeper](https://github.com/yonimn2000/command-line-minesweeper "The classic Minesweeper game but now in the console! This project includes games with both manual and automatic players.") ⭐
 * [Snake](https://github.com/yonimn2000/command-line-snake "A simple command line Snake game with both manual and automatic players.") ⭐
 * [Synonyms Practice Tool](https://github.com/yonimn2000/command-line-synonyms-practice-tool "A simple command line synonyms practice tool.")
 * [Vocabulary Practice Tool](https://github.com/yonimn2000/command-line-vocabulary-practice-tool "A simple command line vocabulary practice tool.")
@@ -41,9 +42,11 @@ Below are the projects Yonatan has been working on since 2017
 ## Libraries
 
 * [Battleship Game Engine](https://github.com/yonimn2000/battleship-game-engine "The core of the Battleship game")
+* [Console Diff Writer](https://github.com/yonimn2000/console-diff-writer "A library that helps keep track of text written to the console and efficiently writes only the difference with the updated text instead of rewriting all of it.")
 * [Fractions](https://github.com/yonimn2000/fractions "A simple library to work with fractions and repeating decimal numbers.") ⭐
 * [Path Star](https://github.com/yonimn2000/path-star "A simple library that uses the A* path finding algorithm to find paths on 2D grids.") ⭐
-* [Simple Console Menus](https://github.com/yonimn2000/simple-console-menus)
+* [Simple Color Console](https://github.com/yonimn2000/simple-color-console "An easier way to create, edit, and write colorful text to the console.")
+* [Simple Console Menus](https://github.com/yonimn2000/simple-console-menus "Some simple console menus.")
 
 ## Web Applications
 
