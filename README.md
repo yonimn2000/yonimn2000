@@ -22,6 +22,7 @@ Below are the projects Yonatan has been working on since 2017
 * [Seven Segment to Binary Tool](https://github.com/yonimn2000/seven-segment-to-binary-tool "Easily visualize and export custom combinations of segments.")
 * [Stock Combinations Generator](https://github.com/yonimn2000/stock-combinations-generator "A simple tool to get the best combinations of stocks such that the least amount of change is left from the trade.")
 * [System Specs Scraper](https://github.com/yonimn2000/system-specs-scraper "Easily get the specs of all Windows computers on your network.") 🕸️⭐
+* [What's on LAN](https://github.com/yonimn2000/whats-on-lan "A scanner library to find basic networking info about devices in the local area network.") 🕸️⭐
 
 ## Graphical User Interface
 
@@ -38,7 +39,6 @@ Below are the projects Yonatan has been working on since 2017
 * [Exact Music Player](https://github.com/yonimn2000/exact-music-player "Adjusts the playlist to finish playing the last song at exactly the specified time.")
 * [Fractions Calculator](https://github.com/yonimn2000/fractions-calculator "A simple tool for math with fractions and more.")
 * [Playlist Planner](https://github.com/yonimn2000/playlist-planner "A simple tool to create music playlists of exact durations.")
-* [What's on LAN](https://github.com/yonimn2000/whats-on-lan "A scanner library to find basic networking info about devices in the local area network.")
 
 ## Libraries
 
