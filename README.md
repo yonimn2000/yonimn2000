@@ -42,7 +42,6 @@ Below are the projects Yonatan has been working on since 2017
 
 ## Libraries
 
-* [Battleship Game Engine](https://github.com/yonimn2000/battleship-game-engine "The core of the Battleship game")
 * [Console Diff Writer](https://github.com/yonimn2000/console-diff-writer "A library that helps keep track of text written to the console and efficiently writes only the difference with the updated text instead of rewriting all of it.")
 * [Fractions](https://github.com/yonimn2000/fractions "A simple library to work with fractions and repeating decimal numbers.") ⭐
 * [Path Star](https://github.com/yonimn2000/path-star "A simple library that uses the A* path finding algorithm to find paths on 2D grids.") ⭐
