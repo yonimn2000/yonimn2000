@@ -1,6 +1,6 @@
 # Yonatan's Projects on GitHub
 
-Below are the projects Yonatan has been working on since 2017
+Below are the projects I have been working on since 2017.
 
 (**Legend**: ⭐ Cool project | 🏢 Group project | 🕸️ LAN project)
 
