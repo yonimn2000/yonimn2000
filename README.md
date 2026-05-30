@@ -54,3 +54,4 @@ Below are the projects I have been working on since 2017.
 * [Memento Health](https://github.com/yonimn2000/Memento-Health "Memento Health is an easy-to-use and secure web application dedicated to creating fully customizable forms to be used by healthcare professionals to assist in gathering, analyzing, and managing patient data.") 🏢 ⭐
 * [MidiJukebox](https://github.com/yonimn2000/midi-jukebox "A lightweight LAN jukebox server built on .NET for MIDI-capable self-playing pianos and external MIDI devices.") 🕸️⭐
 * [Selectt](https://github.com/yonimn2000/Selectt "A simple anonymous polling web application.") 🏢
+* [Stock Combinations Generator v2](https://github.com/yonimn2000/stock-combinations-generator-v2 "Find stock quantity combinations that use as much of your trade budget as possible.") ⭐
